@@ -122,6 +122,9 @@ $ python3 uninstaller.py
 ## Solutions 
 <a href="/Solutions/solution.md">Solutions to all challenges</a>
 
+## Scorecard
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{vikram-s-narayan]/{pygoat-github-actions}/badge)](https://scorecard.dev/viewer/?uri=github.com/{vikram-s-narayan}/{pygoat-github-actions})
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
