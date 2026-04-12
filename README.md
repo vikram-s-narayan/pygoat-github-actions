@@ -1,4 +1,7 @@
 # PyGoat
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/vikram-s-narayan/pygoat-github-actions/badge)](https://scorecard.dev/viewer/?uri=github.com/vikram-s-narayan/pygoat-github-actions)
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -121,9 +124,6 @@ $ python3 uninstaller.py
 
 ## Solutions 
 <a href="/Solutions/solution.md">Solutions to all challenges</a>
-
-## Scorecard
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/vikram-s-narayan/pygoat-github-actions/badge)](https://scorecard.dev/viewer/?uri=github.com/vikram-s-narayan/pygoat-github-actions)
 
 ## Contributors ✨
 
