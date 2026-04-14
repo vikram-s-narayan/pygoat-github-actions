@@ -1,4 +1,4 @@
-# PyGoat
+# PyGoat Rocks
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/vikram-s-narayan/pygoat-github-actions/badge)](https://scorecard.dev/viewer/?uri=github.com/vikram-s-narayan/pygoat-github-actions)
 
